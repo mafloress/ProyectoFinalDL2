@@ -1,7 +1,7 @@
 # Proyecto: Servicio de Predicción Batch para el ROI de Campañas de Marketing Bancario
 Miguel Ángel Flores Saldívar
 
-## 0. Uso de LLMs y Agentes IA
+## Uso de LLMs y Agentes IA
 Se utilizaron los siguientes LLMs para poder tomar ideas para tomar la base del proyecto y buscar fuentes reales de datos para el proyecto, se hizo la comparativa entre cada respuesta de cada uno y se escogío la mas ad hoc:
 - Gemini
 - Copilot
