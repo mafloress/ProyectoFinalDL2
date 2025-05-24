@@ -8,6 +8,9 @@ Se utilizaron los siguientes LLMs para poder tomar ideas para tomar la base del 
 - Deepseek
 - ChatGPT
 
+Se utilizó adicional para documentación e implementación en Github:
+- Jules Google
+
 
 ## Objetivo del Proyecto
 
